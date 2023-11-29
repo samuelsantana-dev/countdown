@@ -1,6 +1,6 @@
-# Portifolio 
+# Countdown 
 <p> 
-  Aqui voce vai encontrar um projeto desenvolvido para estudos de countdown para treinar e demosntrar minhas habilidades nas linguagens desenvolvidas
+   Adicionar listas e tarefas
 </p>
 
 ## Visualização
