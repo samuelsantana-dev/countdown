@@ -15,7 +15,7 @@
  - Sass e Scss
 
  ## Instalação 
- - Clone o repositório: git clone https://github.com/Samuel-Santana109/ignite-time.git
+ - Clone o repositório: git clone https://github.com/samuelsantana-dev/ignite-time.git
  - Abra a visualização do projeto e divirta-se
  - Explore o site e divirta-se!
 
